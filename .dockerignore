@@ -1,0 +1,14 @@
+.git
+.github
+.env
+node_modules
+vendor
+
+storage/logs/*
+bootstrap/cache/*.php
+
+tests
+
+README.md
+CLAUDE.md
+AGENTS.md
